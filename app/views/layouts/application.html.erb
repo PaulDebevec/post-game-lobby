@@ -5,12 +5,27 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-    <%= favicon_link_tag asset_path('app/assets/images/favicon_io/android-chrome-192x192.png') %>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
   <body>
+    <header>
+      <% if current_user %>
+        Hi <%= current_user.username %>
+        |
+        <%= link_to 'Log out', logout_path, method: :delete %>
+      <% else %>
+        <%= link_to 'Log in', login_path %>
+        |
+        <%= link_to 'Sign up', new_user_path %>
+      <% end %>
+    </header>
+
     <%= yield %>
   </body>
 </html>
