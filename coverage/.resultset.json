@@ -1,0 +1,159 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/helpers/game_blogs_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/models/game_blog.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/controllers/game_blogs_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1631685908
+  }
+}
