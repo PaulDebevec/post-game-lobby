@@ -13,9 +13,17 @@
           null
         ]
       },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/helpers/posts_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/paul/learning/gaming_blog/PostGameLobby/app/models/game_blog.rb": {
         "lines": [
           1,
+          1,
+          null,
           1,
           null
         ]
@@ -23,6 +31,15 @@
       "/Users/paul/learning/gaming_blog/PostGameLobby/app/models/application_record.rb": {
         "lines": [
           1,
+          1,
+          null
+        ]
+      },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          null,
           1,
           null
         ]
@@ -130,6 +147,81 @@
         "branches": {
         }
       },
+      "/Users/paul/learning/gaming_blog/PostGameLobby/app/controllers/posts_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/paul/learning/gaming_blog/PostGameLobby/app/jobs/application_job.rb": {
         "lines": [
           0,
@@ -154,6 +246,6 @@
         }
       }
     },
-    "timestamp": 1631685908
+    "timestamp": 1631686097
   }
 }
