@@ -13,7 +13,7 @@ RSpec.describe 'User Registration' do
 
       user_count = User.all.length
       new_user = User.all.last
-      expect(current_path).to eq("/users/#{new_user.id}")
+      expect(current_path).to eq('/dashboard')
       expect(user_count).to eq(1)
     end
 

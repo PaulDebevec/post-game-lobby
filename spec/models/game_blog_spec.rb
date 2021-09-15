@@ -7,5 +7,6 @@ RSpec.describe GameBlog, type: :model do
 
   describe "relationships" do
     it {should have_many(:posts)}
+    it {should belong_to(:user)}
   end
 end
